@@ -1,0 +1,9 @@
+<linker>
+  <assembly fullname="Supabase" preserve="all"/>
+  <assembly fullname="Supabase.Core" preserve="all"/>
+  <assembly fullname="Supabase.Postgrest" preserve="all"/>
+  <assembly fullname="Supabase.Gotrue" preserve="all"/>
+  <assembly fullname="Supabase.Realtime" preserve="all"/>
+  <assembly fullname="Supabase.Storage" preserve="all"/>
+  <assembly fullname="Supabase.Functions" preserve="all"/>
+</linker>
